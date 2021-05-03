@@ -11,4 +11,4 @@ const feelingToBeremoji = (feeling) => {
   }
 };
 
-module.exports = feelingToBeremoji;
+module.exports = { convertFeeling: feelingToBeremoji };
