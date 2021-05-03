@@ -1,6 +1,6 @@
 {
   "name": "beremoji",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A framework for using emojis by the famous @bereket",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,7 @@
   "keywords": [
     "emoji",
     "bere",
-    "bereket",
-    "pog",
-    "rocket",
-    "blast",
-    "twimoji"
+    "bereket"
   ],
   "author": "f1sh",
   "license": "ISC",

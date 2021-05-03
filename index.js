@@ -1,4 +1,4 @@
-const getBeremoji = (feeling) => {
+const feelingToBeremoji = (feeling) => {
   switch (feeling) {
     case "celebration":
       return "🥳";
@@ -11,4 +11,4 @@ const getBeremoji = (feeling) => {
   }
 };
 
-module.exports = getBeremoji;
+module.feelingToBeremoji = feelingToBeremoji;
