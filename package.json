@@ -1,6 +1,6 @@
 {
   "name": "beremoji",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A framework for using emojis by the famous @bereket",
   "main": "index.js",
   "scripts": {
