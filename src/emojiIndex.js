@@ -1,4 +1,4 @@
-const beremojiIndex = {
+module.exports = {
   feelings: {
     rocket: 0,
     launch: 0,
