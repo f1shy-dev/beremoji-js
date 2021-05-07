@@ -1,6 +1,6 @@
 {
   "name": "beremoji",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "A framework for using emojis by the famous @bereket",
   "main": "src/index.js",
   "repository": {
@@ -14,7 +14,6 @@
   },
   "homepage": "https://github.com/f1shy-dev/beremoji-js#readme",
   "dependencies": {
-    "beremoji": "^1.5.0",
     "fuzzyset": "^1.0.6"
   }
 }
