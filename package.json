@@ -8,8 +8,13 @@
     "url": "git+https://github.com/f1shy-dev/beremoji-js.git"
   },
   "author": "f1sh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1shy-dev/beremoji-js/issues"
+  },
   "homepage": "https://github.com/f1shy-dev/beremoji-js#readme",
   "dependencies": {
+    "beremoji": "^1.5.0",
     "fuzzyset": "^1.0.6"
   }
 }
